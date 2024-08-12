@@ -121,3 +121,43 @@ body {
     box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
   }
   
+  /* DEEPAk Maseeh section  */
+
+  .DM{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    background-image: linear-gradient(to left bottom, #ee359e, #dc44b5, #c353c8, #a661d7, #816ce2, #657ff0, #4290f9, #009ffe, #00baff, #00d2ff, #00e7fb, #5ffbf1);
+    height: auto;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+  }
+
+  .DM_h1{
+    font-family:Helvetica, sans-serif;
+    font-weight: 700;
+    color: #fcfcfc;
+    font-size: 40px;
+    text-shadow: #34495e 2px 0 2px;
+  }
+  
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  .DM_p{
+    border-radius: 10px;
+    padding: 10px;
+    color: hwb(0 0% 100%);
+    background-color: rgb(255, 255, 255, 0.6);
+    text-shadow: white .5px .5px .5px;
+  }
+
+  span{
+    color: red;
+  }
