@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    //height: 100vh;
     background: linear-gradient(135deg, #ff7e5f, #feb47b);
   }
   
@@ -86,8 +86,117 @@ body {
     border-radius: 10px;
     box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
   }
+
+  .yash {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient( 89.5deg,  rgba(131,204,255,1) 0.4%, rgba(66,144,251,1) 100.3% );
+  }
+  
+  .yash_h1 {
+    font-size: 2.5em;
+    color: #34495e;
+    margin-bottom: 15px;
+    background: -webkit-linear-gradient(#ff7e5f, #feb47b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+  }
   
   
+  .yash_p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #2c3e50;
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(135deg, #bdc3c7, #2c3e50);
+    border-radius: 10px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* DEEPAk Maseeh section  */
+
+  .DM{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    background-image: linear-gradient(to left bottom, #ee359e, #dc44b5, #c353c8, #a661d7, #816ce2, #657ff0, #4290f9, #009ffe, #00baff, #00d2ff, #00e7fb, #5ffbf1);
+    height: auto;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+  }
+
+  .DM_h1{
+    font-family:Helvetica, sans-serif;
+    font-weight: 700;
+    color: #fcfcfc;
+    font-size: 40px;
+    text-shadow: #34495e 2px 0 2px;
+  }
+  
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  .DM_p{
+    border-radius: 10px;
+    padding: 10px;
+    color: hwb(0 0% 100%);
+    background-color: rgb(255, 255, 255, 0.6);
+    text-shadow: white .5px .5px .5px;
+  }
+
+  span{
+    color: red;
+  }
+
+  
+  .Amit {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(135deg, #fdfbfb, #ebedee);
+  }
+  
+  .Amit_h1 {
+    font-size: 2.5em;
+    color: #34495e;
+    margin-bottom: 15px;
+    background: -webkit-linear-gradient(#ff7e5f, #feb47b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+  }
+  
+  .Amit_p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #2c3e50;
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(135deg, #bdc3c7, #2c3e50);
+    border-radius: 10px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+
   .Prakash {
     background-color: #ffffff;
     padding: 30px;
@@ -120,4 +229,35 @@ body {
     border-radius: 10px;
     box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
   }
+  .lakshmi {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(135deg, #fdfbfb, #ebedee);
+  }
   
+  .lakshmi_h1 {
+    font-size: 2.5em;
+    color: #34495e;
+    margin-bottom: 15px;
+    background: -webkit-linear-gradient(#ff7e5f, #feb47b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+  }
+  
+  .lakshmi_p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #2c3e50;
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(135deg, #bdc3c7, #2c3e50);
+    border-radius: 10px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+  }
